@@ -1,0 +1,27 @@
+{
+  "name": "hszzs",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jstree": "^3.3.0",
+    "echarts": "~2.2.7",
+    "zrender": "~2.1.1",
+    "angularjs": "1.5.8",
+    "angular-websocket": "^2.0.0",
+    "angular-ui-select": "^0.19.1",
+    "angular-advanced-searchbox": "^3.0.0",
+    "pure-angular-advanced-searchbox": "^1.1.77"
+  }
+}
+
